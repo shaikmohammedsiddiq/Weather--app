@@ -1,2 +1,13 @@
-# Weather--app
-Developed a responsive Weather Application using HTML, CSS, and JavaScript with weather API integration to display temperature, humidity, and weather conditions for searched cities.
+# Weather App
+
+A responsive weather application built with HTML, CSS, and JavaScript.
+
+## Live Demo
+https://shaikmohammedsiddiq.github.io/Weather---app/
+
+[🌐 Live Weather App](https://shaikmohammedsiddiq.github.io/Weather---app/)
+
+## Features
+- Search weather by city
+- Displays temperature and weather conditions
+- Responsive design
